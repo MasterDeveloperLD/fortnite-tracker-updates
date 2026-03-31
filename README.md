@@ -2,6 +2,9 @@
 
 Overlay en tiempo real para Fortnite que muestra tu marcador contra otros jugadores (kills vs deaths), con sistema de prioridades, búsqueda en overlay y actualizaciones automáticas.
 
+<img width="547" height="308" alt="completo" src="https://github.com/user-attachments/assets/3c59fcdc-ae28-4912-a270-f3ac6982e69c" />
+
+
 ---
 
 ## ✨ Características
@@ -112,3 +115,9 @@ Desarrollado por **MasterDeveloperLD**
 ## ⚡ Licencia
 
 Uso personal.
+
+<img width="285" height="164" alt="Death" src="https://github.com/user-attachments/assets/2b3f41aa-4081-4940-9972-a45e594ebfc3" />
+<img width="285" height="161" alt="Prioritario" src="https://github.com/user-attachments/assets/82de16e3-ce67-4508-a9f3-f3a4590ff816" />
+<img width="285" height="322" alt="search" src="https://github.com/user-attachments/assets/308f5f67-4c96-4371-90b7-fabd35f18e5e" />
+
+
