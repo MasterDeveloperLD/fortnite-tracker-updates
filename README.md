@@ -2,7 +2,7 @@
 
 Overlay en tiempo real para Fortnite que muestra tu marcador contra otros jugadores (kills vs deaths), con sistema de prioridades, búsqueda en overlay y actualizaciones automáticas.
 
-<img width="547" height="308" alt="completo" src="https://github.com/user-attachments/assets/3c59fcdc-ae28-4912-a270-f3ac6982e69c" />
+<img width="547" height="308" alt="New3" src="https://github.com/user-attachments/assets/62a7bc20-8de8-479e-b16e-4ea66e553d22" />
 
 
 ---
@@ -116,8 +116,8 @@ Desarrollado por **MasterDeveloperLD**
 
 Uso personal.
 
-<img width="285" height="164" alt="Death" src="https://github.com/user-attachments/assets/2b3f41aa-4081-4940-9972-a45e594ebfc3" />
-<img width="285" height="161" alt="Prioritario" src="https://github.com/user-attachments/assets/82de16e3-ce67-4508-a9f3-f3a4590ff816" />
-<img width="285" height="322" alt="search" src="https://github.com/user-attachments/assets/308f5f67-4c96-4371-90b7-fabd35f18e5e" />
 
+<img width="288" height="269" alt="New Kill" src="https://github.com/user-attachments/assets/21dd168c-19c5-4299-8379-8a3722436298" />
+<img width="300" height="286" alt="new2" src="https://github.com/user-attachments/assets/662cd972-72a4-4de4-a731-dc1e40b9aab6" />
+<img width="284" height="349" alt="NEW1" src="https://github.com/user-attachments/assets/6bef9ecb-b5ee-4688-a65c-72f65b60f12d" />
 
