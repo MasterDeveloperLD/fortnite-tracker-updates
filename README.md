@@ -38,7 +38,7 @@ Antes de usar la aplicación necesitas:
 
 1. Descarga el archivo `.zip` desde la sección de **Releases**.  
 2. Extrae el contenido en una carpeta.  
-3. Asegúrate de que ambos archivos estén juntos:  
+3. **Asegúrate de que ambos archivos estén juntos:**  
    - `Fortnite Score Overlay.exe`  
    - `Updater.exe`  
 
